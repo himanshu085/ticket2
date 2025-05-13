@@ -86,6 +86,9 @@ This document outlines the value of tracking SonarQube metrics. It highlights th
 
 To view project-specific metrics in SonarQube, open the desired project and click on the **"Measures"** tab. This provides a breakdown of all tracked metrics in a categorized view.
 
+![image(1)](https://github.com/user-attachments/assets/a94eae5b-f0c2-483c-8b65-0ba7e31d4246)
+
+
 ---
 
 ## 4. Advantages & Disadvantages
